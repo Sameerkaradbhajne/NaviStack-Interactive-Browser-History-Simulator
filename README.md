@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/google-chrome--v1.png" alt="Browser History Simulator Logo" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Browser History Simulator Logo" width="80"/>
   <h1>NaviStack - Browser History Simulator</h1>
   <p><i>A visually stunning, interactive web application demonstrating Stack Data Structures in a real-world scenario.</i></p>
+
+  ## 🌐 Live Access
+
+  To view the EliteCart System locally:
+  ### 🔗 **[Click Here for the Live Website Demonstration](http://localhost:8000/)**
 
   <p>
     <a href="#key-features">Key Features</a> •
@@ -94,13 +99,6 @@ Getting the project up and running locally is incredibly simple. No package mana
    python -m http.server 8000
    # Then visit http://localhost:8000 in your browser
    ```
-
----
-
-## 🌐 Live Access
-
-To view the NaviStack System locally:
-### 🔗 **[Click Here for the Live Website Demonstration](http://localhost:8000/)**
 
 ---
 
