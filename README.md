@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Browser History Simulator Logo" width="80"/>
+  <img src="./logo.png" alt="Browser History Simulator Logo" width="120" style="border-radius: 16px;"/>
   <h1>NaviStack - Browser History Simulator</h1>
   <p><i>A visually stunning, interactive web application demonstrating Stack Data Structures in a real-world scenario.</i></p>
 
   ## 🌐 Live Access
 
-  To view the EliteCart System locally:
-  ### 🔗 **[Click Here for the Live Website Demonstration](http://localhost:8000/)**
+  To view the NaviStack System online:
+  ### 🔗 **[Click Here for the Live Website Demonstration](https://navi-stack-interactive-browser-hist.vercel.app/)**
 
   <p>
     <a href="#key-features">Key Features</a> •
