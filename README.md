@@ -97,6 +97,13 @@ Getting the project up and running locally is incredibly simple. No package mana
 
 ---
 
+## 🌐 Live Access
+
+To view the NaviStack System locally:
+### 🔗 **[Click Here for the Live Website Demonstration](http://localhost:8000/)**
+
+---
+
 <div align="center">
   <p>Designed and built with ❤️</p>
 </div>
